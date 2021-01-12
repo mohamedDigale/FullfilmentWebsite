@@ -22,7 +22,7 @@ if ($conn->connect_error) {
 <html>
 <head>
 <link rel="stylesheet" href="style.css">
-    <title>COVID TECH</title>
+    <title>Mohaka TECH</title>
 <body>
 
 <div id="heading"><h1>Mohaka technologies</h1></div>
